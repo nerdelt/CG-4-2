@@ -9,7 +9,7 @@ namespace Array
             //instantiate the array with given numbers 
             int[] numbers = new int[6] { 1, 1, 2, 3, 5, 8 };
 
-            //create a loop to print each array
+            //create a loop to print each number
             foreach (int i in numbers)
             {
                 Console.WriteLine(i);
