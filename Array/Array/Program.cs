@@ -7,7 +7,7 @@ namespace Array
         static void Main(string[] args)
         {
             //instantiate the array with given numbers 
-            int[] numbers = new int[] { 1, 1, 2, 3, 5, 8 };
+            int[] numbers = { 1, 1, 2, 3, 5, 8 };
 
             //create a loop to print each number
             foreach (int i in numbers)
